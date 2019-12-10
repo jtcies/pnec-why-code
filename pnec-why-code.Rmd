@@ -21,6 +21,35 @@ knitr::opts_chunk$set(echo = FALSE)
 
 3. Writing code can help
 
+## A story
+
+### 30 reports, 1000 lines of code, and lots of google later
+
+##
+
+<div class="centered">
+<img src="xkcd.png" width = "750"/>
+</div>
+
+## Four local tables
+
+1. Characteristics
+2. Activity
+3. Test scores
+4. Outcomes
+
+Allows me to do any analysis I need and not rely on specific reports
+
+## Characteristics
+
+## Activity
+
+## Test scores
+
+## Outcomes
+
+## Tidy data
+
 
 # So ... where do I start?
 
@@ -33,5 +62,11 @@ and
 
 ### Python or R
 </div>
+
+## Resources
+
+### Always Google
+
+www.stackoverflow.com
 
 
