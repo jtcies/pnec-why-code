@@ -1,0 +1,37 @@
+---
+title: "Why code?"
+author: "Joseph Ciesielski"
+date: "12/10/2019"
+output: 
+  ioslides_presentation:
+    css: style.css
+    incremental: true
+    widescreen: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I believe ...
+
+1. We have the power to critically examine and improve our organizations and advance their missions
+
+2. The way we currently do data analysis hinders this
+
+3. Writing code can help
+
+
+# So ... where do I start?
+
+## Languages
+
+<div class="centered">
+### SQL 
+
+and 
+
+### Python or R
+</div>
+
+
