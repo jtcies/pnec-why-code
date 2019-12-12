@@ -146,6 +146,12 @@ non-pasteable | pasteable
 <img src="cran.png" width = "500"/>
 </div>
 
+## Powerful
+
+<div class="centered">
+<img src="spss.jpeg" width = "500"/>
+</div>
+
 # So what?
 
 ## Go beyond counting
